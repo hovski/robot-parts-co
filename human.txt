@@ -1,0 +1,27 @@
+# humanstxt.org
+
+# TEAM
+
+- Annie Pandolfi
+
+---
+
+# THANKS
+
+-Unsplash.com
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Atom
+- Google Chrome
+- Firefox
+
+
+## Hosting
+
+-FastMail
+-Hover.com
